@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54386253104",
+    "project_id": "assignment-frontend-test",
+    "storage_bucket": "assignment-frontend-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54386253104:android:0bc5ce7f5c0140d75b7cf5",
+        "android_client_info": {
+          "package_name": "com.assignment_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisIRLmEIEioU_dRX2JqKhwblxLVbSnyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
